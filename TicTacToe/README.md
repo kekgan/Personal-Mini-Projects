@@ -1,6 +1,8 @@
 ```markdown
 # ❌⭕ TicTacToe (Python)
 
+Completed: 11/05/2023
+
 A simple two-player **TicTacToe** game played in the terminal.  
 Built to practice control flow, functions, and basic game loops in Python.
 
@@ -11,10 +13,3 @@ Built to practice control flow, functions, and basic game loops in Python.
 - ASCII grid board
 - Input validation for moves
 - Win/draw detection
-
----
-
-## ▶️ How to Play
-Run the script:
-```bash
-python main.py
