@@ -13,3 +13,5 @@ Built to practice control flow, functions, and basic game loops in Python.
 - ASCII grid board
 - Input validation for moves
 - Win/draw detection
+
+**Libraries required: os, time
