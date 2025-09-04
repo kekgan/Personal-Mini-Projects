@@ -9,9 +9,9 @@ The goal of this repo is to document my coding journey and experiments while lea
 
 ## 📂 Projects
 
-1. [TicTacToe](./tictactoe) – A simple command-line TicTacToe game for two players.  
-2. [Blackjack](./blackjack) – A text-based Blackjack card game against the dealer (Singapore style).  
-3. [Avatar RPG](./avatar-rpg) – A small text-based role-playing game set in the world of *Avatar: The Last Airbender*.  
+1. [TicTacToe](./TicTacToe) – A simple command-line TicTacToe game for two players.  
+2. [Blackjack](./Blackjack) – A text-based Blackjack card game against the dealer (Singapore style).  
+3. [Avatar RPG](./Avatar-RPG) – A small text-based role-playing game set in the world of *Avatar: The Last Airbender*.  
 
 ---
 
