@@ -16,4 +16,4 @@ The player competes against a computer dealer, trying to get as close to 21 as p
 - Simple score tracking
 
 
-**Libraries Required: random, time, os, pyfiglet
+**Libraries required: random, time, os, pyfiglet
