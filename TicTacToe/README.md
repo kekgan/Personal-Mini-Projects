@@ -1,7 +1,7 @@
 ```markdown
 # ❌⭕ TicTacToe (Python)
 
-Completed: 11/05/2023
+Completed: 12/03/2023
 
 A simple two-player **TicTacToe** game played in the terminal.  
 Built to practice control flow, functions, and basic game loops in Python.
